@@ -19,4 +19,4 @@ GOOGLE_API_KEY="SUA_API_KEY_DO_GOOGLE_AI_STUDIO"
 ```
 
 
-Agora basta executar cada célula de código em ordem para receber ótimas dicas de música.
+Agora basta executar cada célula de código em ordem para receber ótimas dicas de música. Será possível fazer quantas perguntas quiser até você digitar a palavra "nada" no chat. 
